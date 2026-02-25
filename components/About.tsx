@@ -152,7 +152,7 @@ const About: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="text-4xl font-bold text-primary-text font-display">
-                      10+
+                      5+
                     </h4>
                     <p className="text-secondary-text text-sm mt-1">
                       Projects Delivered
